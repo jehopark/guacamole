@@ -1,4 +1,4 @@
 avocado
 lime
 salt
-onion
+red onion
